@@ -1,4 +1,4 @@
-# LockdownHorrorPrivacy
+# Lockdown Horror Privacy Policy
 
 Lockdown Horror game: Privacy policy
 Welcome to the Lockdown Horror app for Android!
